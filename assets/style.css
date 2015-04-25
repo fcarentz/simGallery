@@ -1,0 +1,19 @@
+#sg-viewer {
+    width:470px;
+    height:261px;
+    border:solid 1px #000;
+    background-size:cover;
+    margin:10px auto;
+}
+#sg-gallery {
+    display:none;
+    width:470px;
+    text-align: center;
+    margin: 0 auto;
+}
+#sg-gallery img {
+    float:left;
+    padding:2px;
+    width:24%;
+    cursor: pointer;
+}
